@@ -1,3 +1,4 @@
+
 <p align='center'>
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/GrupaNETPg">
@@ -54,10 +55,14 @@ Each category is divided into groups based on resources language (Polish or Engl
 [What is .NET? by Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 ## Syntax and basics
 ### EN
-[C# 101 episodes 1 - 15](https://github.com/krzysztofzajaczkowski/csharp-notebooks)
+C# 101 
+[episodes 1 - 15 (video)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+[episodes 1 - 12 (interactive notebooks)](https://github.com/krzysztofzajaczkowski/csharp-notebooks)
 ## Object oriented programming
 ### EN
-[C# 101 episodes 16 - 19](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+C# 101
+[episodes 16 - 19 (video)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+[episodes 13 - 15 (interactive notebooks)](https://github.com/krzysztofzajaczkowski/csharp-notebooks)
 ## LINQ
 ### EN
 [C# 201 episodes 1 - 3](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9)
