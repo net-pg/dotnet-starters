@@ -1,4 +1,5 @@
 
+
 <p align='center'>
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/GrupaNETPg">
@@ -14,6 +15,7 @@ Each category is divided into groups based on resources language (Polish or Engl
 - A category may contain resources only in one language
 - Resources may differ in content, they are grouped only by their general category
 - These roadmaps are only suggestions, order may be changed, categories added or removed as per your preference
+- This list does not cover everything, it's only a list of general, most important topics
 
 ## Table of Contents
 * [Beginner roadmap](#beginner-roadmap)
@@ -22,6 +24,7 @@ Each category is divided into groups based on resources language (Polish or Engl
 		* [What is dotNET?](#what-is-dotnet)
 		* [Syntax and basics](#syntax-and-basics)
 		* [Object oriented programming](#object-oriented-programming)
+		* [Generics](#generics)
 		* [LINQ](#linq)
 		* [Working with files](#working-with-files)
 		* [SOLID](#solid)
@@ -31,6 +34,7 @@ Each category is divided into groups based on resources language (Polish or Engl
 			* Interface segregation principle
 			* Dependency inversion principle
 		* [Version control](#version-control)
+		* [Delegates](#delegates)
 		* [Asynchronous programming](#asynchronous-programming)
 		* [Extensions methods](#extensions-methods)
 		* [SQL basics (optional)](#sql-basics)
@@ -63,6 +67,11 @@ C# 101
 C# 101
 [episodes 16 - 19 (video)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
 [episodes 13 - 15 (interactive notebooks)](https://github.com/krzysztofzajaczkowski/csharp-notebooks)
+
+## Generics
+### EN
+[C# Programming Tutorials: Beginners 11 Generics Class List Object](https://www.youtube.com/watch?v=hUD2XwuxvIY)
+
 ## LINQ
 ### EN
 [C# 201 episodes 1 - 3](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9)
@@ -71,19 +80,31 @@ C# 101
 ## Working with files
 ### EN
 [Working With The File System in C#](https://www.youtube.com/watch?v=9mUuJIKq40M)
+
 ## SOLID
 ### PL
 [Zasady SOLID - niezbędnik programisty](https://www.youtube.com/watch?v=prb_s7HAnP4)
 ### EN
 [Better C# - SOLID Principles](https://www.youtube.com/watch?v=isYMYNpy0ww)
+
 ## Version control
 ### EN
 [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE0)
-
 [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
-## Asynchronous programming
+[Git Tutorial for Beginners: A Quick Start Guide](https://youtu.be/ugN-IYV1NTM?list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
+
+## Delegates
+### EN
+[Delegates in C# - A practical demonstration, including Action and Func](https://youtu.be/R8Blt5c-Vi4s)
+[C# Delegates, Lambda Expressions, Anonymous Methods, Actions, Func...](https://www.youtube.com/watch?v=nmG9Re7HK60&list=PLrW43fNmjaQXAgv9mMEhQ7wp6uXcwebQ6&index=3)
+
+## Asynchronous programming and multithreading
 ### EN
 [C# 201 episodes 5 - 8](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9)
+[C# Async / Await - Make your app more responsive and faster with asynchronous programming](https://youtu.be/2moh18sh5p4)
+[C# Tasks Async Await](https://www.youtube.com/watch?v=CzgDxdwTJds&list=PLrW43fNmjaQXAgv9mMEhQ7wp6uXcwebQ6&index=5)
+[C# Threads, Tasks, Multi-threading & UI Cross-threading](https://www.youtube.com/watch?v=XXg9g56FS0k&list=PLrW43fNmjaQXAgv9mMEhQ7wp6uXcwebQ6&index=4)
+
 ## Extension methods
 ### EN
 [Tim Corey - How To Create Extension Methods in C#](https://www.youtube.com/watch?v=C_1DzspLy4Y&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP&index=28)
@@ -94,6 +115,8 @@ C# 101
 ## Object-relational mappers
 ### EN
 [Entity Framework Core 101 episodes 1 - 5](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6)
+[EF Core Basics](https://www.youtube.com/watch?v=7I5etvcKDzo)
+
 ## Dependency Injection
 ### EN
 [What is Dependency injection/Inversion of control](https://www.youtube.com/watch?v=s6EVfmUgX60)
