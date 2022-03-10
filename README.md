@@ -1,4 +1,5 @@
 
+  
 
 <p align='center'>
   </a>&nbsp;&nbsp;
@@ -18,6 +19,7 @@ Each category is divided into groups based on resources language (Polish or Engl
 - This list does not cover everything, it's only a list of general, most important topics
 
 ## Table of Contents
+* [Tips](#tips)
 * [Beginner roadmap](#beginner-roadmap)
 	* [Full courses](#full-courses)
 	* Roadmap
@@ -49,14 +51,32 @@ Each category is divided into groups based on resources language (Polish or Engl
 		* [Singleton pattern](#singleton-pattern)
 		* [Test driven development](#test-driven-development)
 * [License](#license)
+
+# Tips
+MSDN (Microsoft documentation) is well developed and should cover all questions you might have most of the time. Although, it's translation (especially Polish translation) isn't always clear and correct. Hence we recommend you to install extension *FFS MSDN in English* for your browser. This addon ensures that MSDN will always use English language (language can be changed manually on page without this extension as well).
+
+[FFS MSDN in English for Chromium browsers](https://chrome.google.com/webstore/detail/ffs-msdn-in-english/ddaknggefjjgpnlhiejepbiplceedmfl)
+[FFS MSDN in English for Mozilla Firefox](https://addons.mozilla.org/pl/firefox/addon/ffs-msdn-in-english/)
+[FFS MSDN in English for Opera](https://addons.opera.com/pl/extensions/details/ffs-msdn-in-english/)
+
+# Beginner roadmap
+
 ## Full courses 
 (might and probably will NOT contain all suggested topics)
 ### PL
 [C# od podstaw](https://www.youtube.com/playlist?list=PLOHaqGKEYaykln8FR6kTovbJEgQ707EdH)
 
+### EN
+[Learn C# BASICS in 10 MINUTES!](https://www.youtube.com/watch?v=IFayQioG71A)
+[C# Programming All-in-One Tutorial Series](https://youtu.be/qOruiBrXlAw?list=PL_c9BZzLwBRIXCJGLd4UzqH34uCclOFwC) - probably the most detailed course on this list
+[C# Mastery Course (2020)](https://www.youtube.com/playlist?list=PLrW43fNmjaQVSmaezCeU-Hm4sMs2uKzYN)
+[C# Tutorial - Full Course for Beginners](https://youtu.be/GhQdlIFylQ8?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ)
+
 ## What is dotNET
 ### EN
+[C# in 100 Seconds](https://www.youtube.com/watch?v=ravLFzIguCM)
 [What is .NET? by Scott Hanselman](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+
 ## Syntax and basics
 ### EN
 C# 101 
@@ -70,6 +90,7 @@ C# 101
 
 ## Generics
 ### EN
+[What are Generics? (C# Basics)](https://www.youtube.com/watch?v=7VlykMssZzk&list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz&index=6)
 [C# Programming Tutorials: Beginners 11 Generics Class List Object](https://www.youtube.com/watch?v=hUD2XwuxvIY)
 
 ## LINQ
@@ -97,6 +118,7 @@ C# 101
 ### EN
 [Delegates in C# - A practical demonstration, including Action and Func](https://youtu.be/R8Blt5c-Vi4s)
 [C# Delegates, Lambda Expressions, Anonymous Methods, Actions, Func...](https://www.youtube.com/watch?v=nmG9Re7HK60&list=PLrW43fNmjaQXAgv9mMEhQ7wp6uXcwebQ6&index=3)
+[What are Delegates? (C# Basics, Lambda, Action, Func)](https://www.youtube.com/watch?v=3ZfwqWl-YI0&list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz&index=3)
 
 ## Asynchronous programming and multithreading
 ### EN
